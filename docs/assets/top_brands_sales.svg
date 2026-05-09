@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<style>
+.bg{fill:#fbfcfd}.title{font:700 26px Arial, sans-serif;fill:#111827}.subtitle{font:14px Arial, sans-serif;fill:#64748b}.axis{font:12px Arial, sans-serif;fill:#64748b}.label{font:600 14px Arial, sans-serif;fill:#1f2937}.value{font:700 13px Arial, sans-serif;fill:#111827}.grid{stroke:#e5e7eb;stroke-width:1}.bar{rx:5;ry:5}
+</style>
+<rect class="bg" width="100%" height="100%" rx="12"/>
+<text class="title" x="32" y="42">Top brands by annual sales</text>
+<text class="subtitle" x="32" y="66">Aggregated annual_sales_units by brand</text>
+<line class="grid" x1="384.5" y1="92" x2="384.5" y2="490"/>
+<text class="axis" x="384.5" y="525" text-anchor="middle">25.4M</text>
+<line class="grid" x1="549.0" y1="92" x2="549.0" y2="490"/>
+<text class="axis" x="549.0" y="525" text-anchor="middle">50.7M</text>
+<line class="grid" x1="713.5" y1="92" x2="713.5" y2="490"/>
+<text class="axis" x="713.5" y="525" text-anchor="middle">76.1M</text>
+<line class="grid" x1="878.0" y1="92" x2="878.0" y2="490"/>
+<text class="axis" x="878.0" y="525" text-anchor="middle">101.5M</text>
+<text class="label" x="202" y="116.9" text-anchor="end">Tesla</text>
+<rect class="bar" x="220" y="99.0" width="658.0" height="25.8" fill="#0f766e"/>
+<text class="value" x="888.0" y="116.9">101.5M</text>
+<text class="label" x="202" y="156.7" text-anchor="end">BYD</text>
+<rect class="bar" x="220" y="138.8" width="327.3" height="25.8" fill="#2563eb"/>
+<text class="value" x="557.3" y="156.7">50.5M</text>
+<text class="label" x="202" y="196.5" text-anchor="end">Volkswagen</text>
+<rect class="bar" x="220" y="178.6" width="312.5" height="25.8" fill="#e11d48"/>
+<text class="value" x="542.5" y="196.5">48.2M</text>
+<text class="label" x="202" y="236.3" text-anchor="end">Kia</text>
+<rect class="bar" x="220" y="218.4" width="107.7" height="25.8" fill="#d97706"/>
+<text class="value" x="337.7" y="236.3">16.6M</text>
+<text class="label" x="202" y="276.1" text-anchor="end">Hyundai</text>
+<rect class="bar" x="220" y="258.2" width="98.7" height="25.8" fill="#7c3aed"/>
+<text class="value" x="328.7" y="276.1">15.2M</text>
+<text class="label" x="202" y="315.9" text-anchor="end">BMW</text>
+<rect class="bar" x="220" y="298.0" width="48.3" height="25.8" fill="#059669"/>
+<text class="value" x="278.3" y="315.9">7.4M</text>
+<text class="label" x="202" y="355.7" text-anchor="end">Ford</text>
+<rect class="bar" x="220" y="337.8" width="39.3" height="25.8" fill="#c2410c"/>
+<text class="value" x="269.3" y="355.7">6.1M</text>
+<text class="label" x="202" y="395.5" text-anchor="end">Mercedes</text>
+<rect class="bar" x="220" y="377.6" width="32.3" height="25.8" fill="#0891b2"/>
+<text class="value" x="262.3" y="395.5">5.0M</text>
+<text class="label" x="202" y="435.3" text-anchor="end">Audi</text>
+<rect class="bar" x="220" y="417.4" width="24.7" height="25.8" fill="#be123c"/>
+<text class="value" x="254.7" y="435.3">3.8M</text>
+<text class="label" x="202" y="475.1" text-anchor="end">GM/Chevrolet</text>
+<rect class="bar" x="220" y="457.2" width="14.9" height="25.8" fill="#4f46e5"/>
+<text class="value" x="244.9" y="475.1">2.3M</text>
+</svg>

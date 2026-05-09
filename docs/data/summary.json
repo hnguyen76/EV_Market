@@ -1,0 +1,239 @@
+{
+  "record_count": 2000,
+  "brand_count": 20,
+  "year_min": 2020,
+  "year_max": 2026,
+  "total_sales_units": 259307184.0,
+  "avg_price_usd": 78873.90715,
+  "median_price_usd": 73013.015,
+  "avg_range_miles": 261.8255,
+  "median_range_miles": 261.0,
+  "avg_charging_speed_kw": 155.2063,
+  "avg_customer_rating": 3.572045,
+  "avg_safety_rating": 4.377,
+  "avg_price_per_mile": 319.61273395089296,
+  "top_brand": {
+    "name": "Tesla",
+    "value": 101459482.0,
+    "records": 434
+  },
+  "top_segment": {
+    "name": "Premium",
+    "records": 712,
+    "sales": 86507799.0,
+    "sales_share": 0.33361127009886465,
+    "avg_price": 81102.32835674158,
+    "avg_range": 263.94101123595505,
+    "avg_rating": 3.5460112359550564,
+    "avg_safety": 4.367977528089888
+  },
+  "top_three_brand_share": 0.7717439714281114,
+  "brand_sales": [
+    {
+      "name": "Tesla",
+      "value": 101459482.0,
+      "records": 434
+    },
+    {
+      "name": "BYD",
+      "value": 50472617.0,
+      "records": 282
+    },
+    {
+      "name": "Volkswagen",
+      "value": 48186657.0,
+      "records": 194
+    },
+    {
+      "name": "Kia",
+      "value": 16612129.0,
+      "records": 166
+    },
+    {
+      "name": "Hyundai",
+      "value": 15223045.0,
+      "records": 152
+    },
+    {
+      "name": "BMW",
+      "value": 7445149.0,
+      "records": 150
+    },
+    {
+      "name": "Ford",
+      "value": 6057329.0,
+      "records": 129
+    },
+    {
+      "name": "Mercedes",
+      "value": 4982856.0,
+      "records": 96
+    },
+    {
+      "name": "Audi",
+      "value": 3811099.0,
+      "records": 77
+    },
+    {
+      "name": "GM/Chevrolet",
+      "value": 2292030.0,
+      "records": 143
+    },
+    {
+      "name": "Toyota",
+      "value": 603411.0,
+      "records": 41
+    },
+    {
+      "name": "Rivian",
+      "value": 578395.0,
+      "records": 37
+    },
+    {
+      "name": "NIO",
+      "value": 401127.0,
+      "records": 23
+    },
+    {
+      "name": "Fisker",
+      "value": 391554.0,
+      "records": 25
+    },
+    {
+      "name": "Porsche",
+      "value": 226297.0,
+      "records": 14
+    },
+    {
+      "name": "Volvo",
+      "value": 181733.0,
+      "records": 12
+    },
+    {
+      "name": "Xiaomi",
+      "value": 160977.0,
+      "records": 8
+    },
+    {
+      "name": "Lucid",
+      "value": 114812.0,
+      "records": 6
+    },
+    {
+      "name": "Polestar",
+      "value": 88852.0,
+      "records": 9
+    },
+    {
+      "name": "Honda",
+      "value": 17633.0,
+      "records": 2
+    }
+  ],
+  "segment_summary": [
+    {
+      "name": "Premium",
+      "records": 712,
+      "sales": 86507799.0,
+      "sales_share": 0.33361127009886465,
+      "avg_price": 81102.32835674158,
+      "avg_range": 263.94101123595505,
+      "avg_rating": 3.5460112359550564,
+      "avg_safety": 4.367977528089888
+    },
+    {
+      "name": "Mid-range",
+      "records": 642,
+      "sales": 83479890.0,
+      "sales_share": 0.32193435103595125,
+      "avg_price": 50688.8457788162,
+      "avg_range": 255.14953271028037,
+      "avg_rating": 3.530607476635514,
+      "avg_safety": 4.372274143302181
+    },
+    {
+      "name": "Luxury",
+      "records": 495,
+      "sales": 65966088.0,
+      "sales_share": 0.2543935998317733,
+      "avg_price": 127339.96795959596,
+      "avg_range": 275.2929292929293,
+      "avg_rating": 3.698949494949495,
+      "avg_safety": 4.41010101010101
+    },
+    {
+      "name": "Budget",
+      "records": 151,
+      "sales": 23353407.0,
+      "sales_share": 0.09006077903341081,
+      "avg_price": 29320.750860927154,
+      "avg_range": 236.08609271523179,
+      "avg_rating": 3.4549668874172186,
+      "avg_safety": 4.33112582781457
+    }
+  ],
+  "country_sales": [
+    {
+      "name": "US",
+      "value": 110893602.0,
+      "records": 774
+    },
+    {
+      "name": "Germany",
+      "value": 64652058.0,
+      "records": 531
+    },
+    {
+      "name": "China",
+      "value": 51034721.0,
+      "records": 313
+    },
+    {
+      "name": "South Korea",
+      "value": 31835174.0,
+      "records": 318
+    },
+    {
+      "name": "Japan",
+      "value": 621044.0,
+      "records": 43
+    },
+    {
+      "name": "Sweden",
+      "value": 270585.0,
+      "records": 21
+    }
+  ],
+  "body_sales": [
+    {
+      "name": "Truck",
+      "value": 58540982.0,
+      "records": 427
+    },
+    {
+      "name": "Hatchback",
+      "value": 42792674.0,
+      "records": 324
+    },
+    {
+      "name": "Coupe",
+      "value": 41644598.0,
+      "records": 303
+    },
+    {
+      "name": "Sedan",
+      "value": 41159954.0,
+      "records": 301
+    },
+    {
+      "name": "SUV",
+      "value": 39409797.0,
+      "records": 364
+    },
+    {
+      "name": "Van",
+      "value": 35759179.0,
+      "records": 281
+    }
+  ]
+}
