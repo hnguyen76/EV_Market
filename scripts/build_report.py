@@ -634,7 +634,7 @@ def build_dashboard_html(rows: list[dict[str, Any]], summary: dict[str, Any]) ->
     generated = datetime.now().strftime("%Y-%m-%d %H:%M")
     template = r"""
 <!doctype html>
-<html lang="vi">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -910,7 +910,7 @@ def build_dashboard_html(rows: list[dict[str, Any]], summary: dict[str, Any]) ->
     <div class="topline">
       <div>
         <h1>EV Market 2026 Dashboard</h1>
-        <p class="subtitle">Phân tích model, brand, segment, giá, range và annual sales từ file CSV trong repo.</p>
+        <p class="subtitle">Analysis of models, brands, segments, prices, range, and annual sales from the repository CSV.</p>
       </div>
       <div class="source">Source: ev_market_2026.csv<br>Generated: __GENERATED__</div>
     </div>
